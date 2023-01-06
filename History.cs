@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MomentumPattern
+namespace MomentoPattern
 {
     public class History
     {

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MomentumPattern
+namespace MomentoPattern
 {
-    class Editor
+    public class Editor
     {
     }
 }
